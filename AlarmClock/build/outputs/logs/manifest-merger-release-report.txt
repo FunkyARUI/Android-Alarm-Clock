@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:2:1-104:12
+	package
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:3:5-28
+		INJECTED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml
+		INJECTED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml
+		INJECTED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml
+		INJECTED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:9:9-38
+		INJECTED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml
+		INJECTED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:8:9-35
+		INJECTED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml
+		INJECTED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:14:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.INTERNET
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:22:22-73
+application
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:25:5-102:19
+	android:label
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:28:9-38
+	android:theme
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:30:9-40
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:26:9-58
+activity#com.honliv.su.activity.WelcomeActivity
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:31:9-38:20
+	android:theme
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:33:13-77
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:32:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:36:27-74
+activity#com.honliv.su.activity.MainActivity
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:40:9-44:52
+	android:screenOrientation
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:41:13-45
+	android:launchMode
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:43:13-44
+	android:theme
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:40:19-69
+activity#com.honliv.su.activity.AlarmDealActivity
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:46:9-50:52
+	android:screenOrientation
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:48:13-45
+	android:windowSoftInputMode
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:49:13-54
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:47:13-68
+activity#com.honliv.su.activity.NewClockActivity
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:52:8-55:52
+	android:screenOrientation
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:53:13-67
+activity#com.honliv.su.activity.SelectBellActivity
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:57:8-60:52
+	android:screenOrientation
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:59:13-45
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:58:13-69
+activity#com.honliv.su.activity.SettingActivity
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:62:8-65:52
+	android:screenOrientation
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:64:13-45
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:63:13-66
+receiver#com.honliv.su.common.AlarmReceiver
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:67:9-73:20
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:67:19-68
+intent-filter#android.intent.action.ALARM_RECEIVER+android.intent.action.BOOT_COMPLETED+android.intent.category.DEFAULT
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:68:13-72:29
+action#android.intent.action.ALARM_RECEIVER
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:69:17-78
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:69:25-76
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:70:17-78
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:70:25-76
+category#android.intent.category.DEFAULT
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:71:17-75
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:71:27-73
+provider#com.honliv.su.common.AlarmProvider
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:74:9-75:71
+	android:authorities
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:75:13-69
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:74:19-68
+service#com.honliv.su.common.AlarmService
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:76:9-77:72
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:77:13-61
+activity#com.tencent.tauth.AuthActivity
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:80:12-90:15
+	android:launchMode
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:83:9-40
+	android:noHistory
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:82:9-33
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:81:9-54
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:84:5-89:21
+action#android.intent.action.VIEW
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:85:9-61
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:85:17-58
+category#android.intent.category.BROWSABLE
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:87:9-70
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:87:19-67
+data
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:88:9-52
+	android:scheme
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:88:15-49
+activity#com.tencent.connect.common.AssistActivity
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:91:4-95:66
+	android:screenOrientation
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:94:4-40
+	android:configChanges
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:93:4-65
+	android:theme
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:95:4-63
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:92:4-60
+meta-data#TA_APPKEY
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:96:9-98:45
+	android:value
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:98:13-42
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:97:13-37
+meta-data#InstallChannel
+ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:99:9-101:44
+	android:value
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:101:13-41
+	android:name
+		ADDED from D:\Androidshuinimemi\AlarmClock\AndroidManifest.xml:100:13-42
