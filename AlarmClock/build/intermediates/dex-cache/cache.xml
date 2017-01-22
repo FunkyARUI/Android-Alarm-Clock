@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Androidshuinimemi\AlarmClock\libs\open_sdk_r4889.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b2f3672b0f55b793684f6bef9df78776b15449e">
+        <dex dex="D:\Androidshuinimemi\AlarmClock\build\intermediates\pre-dexed\release\open_sdk_r4889-3853a03ed425aeccefb51cc94e9b75cb70b63203.jar" />
+    </item>
+    <item
+        jar="D:\Androidshuinimemi\AlarmClock\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb6883d96005bc85b3e868f204507ea5b4fa9bbf">
+        <dex dex="D:\Androidshuinimemi\AlarmClock\build\intermediates\pre-dexed\release\android-support-v4-d9d772e4e46837445cb641e9dd0bc0c6bf4b6f3c.jar" />
+    </item>
+
+</items>
