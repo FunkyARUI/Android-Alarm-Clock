@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Androidshuinimemi/AlarmClock/res/values/array.xml -->
+    <eat-comment/>
+    <string-array name="cancel_bell_mode">
+        <item>解题解除闹铃</item>
+        <item>摇晃手机解除闹铃</item>
+    </string-array>
+    <string-array name="repeat_item">
+        <item>只响一次</item>
+        <item>周一到周五</item>
+        <item>每天</item>
+    </string-array>
+    <string-array name="shake_item">
+        <item>轻轻摇</item>
+        <item>用力摇</item>
+        <item>爆力摇</item>
+    </string-array>
+    <!-- From: file:/D:/Androidshuinimemi/AlarmClock/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="info_size">25sp</dimen>
+    <dimen name="num_size">50sp</dimen>
+    <dimen name="result_size">40sp</dimen>
+    <dimen name="test_size">35sp</dimen>
+    <dimen name="tip_size">20sp</dimen>
+    <!-- From: file:/D:/Androidshuinimemi/AlarmClock/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about_content">\t\t趣味闹钟是一款非常有趣的闹钟。本闹钟和其他闹钟的不同在于独特的取消闹钟的方法，非常适合爱赖床的朋友使用。
+        \n\n取消闹钟的三种方式：\n\t\t1、做算术题。闹钟响的同时会随机产生算术题，只有做对了指定的题才能取消闹钟，做题次数可自定义。
+        \n\t\t2、摇晃手机。根据摇晃手机的力度判断清醒程度，清醒程度达到100%取消闹钟，摇晃手机灵敏度可在设置里设置。
+        \n\t\t3、三根手指同时下滑。个别手机摇晃反应不是很好，若设置为摇晃模式，取消不了闹钟，所以设置这个隐藏的取消闹铃方法。
+        \n\n\t\t谢谢！</string>
+    <string name="action_about">关于</string>
+    <string name="action_add">新建闹钟</string>
+    <string name="action_del">删除所有闹钟</string>
+    <string name="action_settings">设置</string>
+    <string name="action_suggest">建议反馈</string>
+    <string name="almostchenggong">即将摇晃成功：</string>
+    <string name="app_name">趣味闹钟</string>
+    <string name="bell">铃声</string>
+    <string name="bell_mode">静音模式闹钟响铃</string>
+    <string name="bell_mode_tip">手机处于静音模式时，闹钟仍会响铃</string>
+    <string name="bell_text">铃声</string>
+    <string name="cancel_alarm_mode">解除闹钟模式</string>
+    <string name="cancel_alarm_tip1">摇动手机，解除闹钟</string>
+    <string name="cancel_alarm_tip2">做算术题解除闹钟</string>
+    <string name="cishu">次</string>
+    <string name="clock">闹钟</string>
+    <string name="close">关闭</string>
+    <string name="days">天</string>
+    <string name="del_clock">删除闹钟</string>
+    <string name="editclock">编辑闹钟</string>
+    <string name="everyday">每天</string>
+    <string name="fordeny">取消</string>
+    <string name="forsure">确定</string>
+    <string name="hours">小时</string>
+    <string name="huidacuowu">回答错误，请继续！</string>
+    <string name="huidazhengque">回答正确！</string>
+    <string name="ifyoudeleteclock">是否删除此闹钟？</string>
+    <string name="label_text">标签</string>
+    <string name="minutes">分钟</string>
+    <string name="mondaytofriday">周一到周五</string>
+    <string name="moren">（默认）</string>
+    <string name="muisc">音乐</string>
+    <string name="newclock">新建闹钟</string>
+    <string name="num_time">解题次数</string>
+    <string name="num_time_tip">3(默认)</string>
+    <string name="oneminute">1分钟</string>
+    <string name="quittext">再按一次退出程序</string>
+    <string name="repeat_text">重复</string>
+    <string name="ringonece">只响一次</string>
+    <string name="shake_tip">轻轻摇</string>
+    <string name="shake_title">摇晃手机灵敏度</string>
+    <string name="shifoufangqi">是否放弃本次设置？</string>
+    <string name="stillneedunlock">还需要解锁</string>
+    <string name="top_cancel">×</string>
+    <string name="top_ok">✔</string>
+    <string name="vibration_text">震动</string>
+    <string name="yaohuangzhe">摇晃成功：</string>
+    <!-- From: file:/D:/Androidshuinimemi/AlarmClock/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
